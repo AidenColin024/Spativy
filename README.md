@@ -14,7 +14,7 @@ Taken worden eerlijk verdeeld binnen het team.
 Per sprint voert iedereen ongeveer de helft van de werkzaamheden uit.
 
 GIT strategie
-We werken nooit in main branch alleen in feature branches en op einde mergin we alles op main branch.
+We werken nooit in main branch alleen in feature branches en op einde mergin we eerst naar dev branch en als dan alles goed is zonder fouten naar main branchen.
 
 Commits
 We maken regelmatig commits zodat voortgang zichtbaar blijft.
