@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aiden\\source\\repos\\Spativy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C58B5A6A-4398-4688-A9EA-70F032FF981F}|Spativy\\Spativy.csproj|c:\\users\\aiden\\source\\repos\\spativy\\spativy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C58B5A6A-4398-4688-A9EA-70F032FF981F}|Spativy\\Spativy.csproj|solutionrelative:spativy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aiden\\source\\repos\\Spativy\\Spativy\\Form1.cs",
+              "RelativeDocumentMoniker": "Spativy\\Form1.cs",
+              "ToolTip": "C:\\Users\\aiden\\source\\repos\\Spativy\\Spativy\\Form1.cs [Design]",
+              "RelativeToolTip": "Spativy\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T08:19:47.193Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
